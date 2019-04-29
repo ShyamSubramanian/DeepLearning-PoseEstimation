@@ -4,6 +4,8 @@ Pose Estimation Architecture - ResNet with Deconvolution
 <img src="images/DL.png">
 </p>
 
+Check out a video result here - [Video](https://www.youtube.com/watch?v=WxdiJy6Tr5k)
+
 ## Dependencies
 * [TensorFlow](https://www.tensorflow.org/)
 * [CUDA](https://developer.nvidia.com/cuda-downloads)
