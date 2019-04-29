@@ -1,7 +1,7 @@
 # Pose Estimation using Attention based mechanisms
 Pose Estimation
 <p align="center">
-<img src="images/DL.png" width="400" height="400">
+<img src="images/DL.png">
 </p>
 
 ## Dependencies
