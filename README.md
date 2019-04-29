@@ -1,5 +1,5 @@
 # Pose Estimation using Attention based mechanisms
-Pose Estimation
+Pose Estimation Architecture - ResNet with Deconvolution
 <p align="center">
 <img src="images/DL.png">
 </p>
